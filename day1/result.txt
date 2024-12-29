@@ -1,0 +1,2 @@
+total_distance: 1889772
+similarity_score: 23228917
